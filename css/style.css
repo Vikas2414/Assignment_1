@@ -22,7 +22,7 @@ p
     color: black;
 }
 
-.sectionTitleBox1
+.sectionTitleBox
 {
     position: absolute;
     width: 150px;
@@ -36,31 +36,22 @@ p
     text-align: center;
 }
 
-.sectionTitleBox2
+.char1
 {
-    position: absolute;
-    width: 150px;
-    height: 40px;
-    margin-top: 0%;
-    margin-bottom: 40px;
-    right: 0%;
-    top: 0;
-    border: 1px solid black;
-    background-color: pink;
-    text-align: center;
+        background-color: yellow;
+
 }
-.sectionTitleBox3
+
+.char2
 {
-    position: absolute;
-    width: 150px;
-    height: 40px;
-    margin-top: 0%;
-    margin-bottom: 40px;
-    right: 0%;
-    top: 0;
-    border: 1px solid black;
-    background-color: blue;
-    text-align: center;
+        background-color: blue;
+
+}
+
+.char1
+{
+        background-color: pink;
+
 }
 
 .sectionTitle
